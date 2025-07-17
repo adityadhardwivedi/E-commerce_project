@@ -130,6 +130,10 @@ Possible extensions to this project:
 - Additional data sources to enhance analysis depth.
 - Automation of the data pipeline for real-time data ingestion and analysis.
 
+## 🙋‍♂️ Author
+
+**Aditya Dhar Dwivedi**  
+[LinkedIn](https://www.linkedin.com/in/aditya-dhar-dwivedi) • [GitHub](https://github.com/adityadhardwivedi)
 
 
 ---
