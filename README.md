@@ -6,6 +6,7 @@ This project demonstrates how to perform **data extraction, transformation, anal
 - **Python (Pandas, Matplotlib)**
 - **MySQL (via SQLAlchemy + PyMySQL)**
 - **Jupyter Notebook**
+- 
 This project is an end-to-end data analysis solution designed to extract critical business insights from E-commerce platform sales data.  Python is used  for data processing and analysis, SQL is used for advanced querying, and structured problem-solving techniques to solve key business questions.
 ---
 ## 📌 Objective
