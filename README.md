@@ -1,12 +1,23 @@
 # E-commerce_project
-E-commerce Sales Performance Analysis Project
+ 🧠 Data Analysis Project with Python and MySQL
 
+This project demonstrates how to perform **data extraction, transformation, analysis, and visualization** using:
 
-## Project Overview
-
-
+- **Python (Pandas, Seaborn, Matplotlib)**
+- **MySQL (via SQLAlchemy + PyMySQL)**
+- **Jupyter Notebook**
 This project is an end-to-end data analysis solution designed to extract critical business insights from E-commerce platform sales data.  Python is used  for data processing and analysis, SQL is used for advanced querying, and structured problem-solving techniques to solve key business questions.
 ---
+## 📌 Objective
+
+The goal is to:
+- Connect to a MySQL database
+- Extract data using SQL queries
+- Clean and process the data
+- Perform exploratory data analysis (EDA)
+- Visualize key trends and patterns
+- Export insights into a CSV format
+
 
 ## Project Steps
 
